@@ -10,7 +10,7 @@ Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
 ## Algorithm :
 
-
+```
 ## Program:
 import numpy as np
 import matplotlib.pyplot as plt
@@ -89,6 +89,8 @@ plt.show()
 ![Picture1](https://user-images.githubusercontent.com/83111884/203908957-2812ef44-641e-4bb5-9e35-f8cb7232d99a.jpg)
 
 ![image](https://user-images.githubusercontent.com/83111884/203909005-dbe675ba-1df7-4161-861e-38b36636088b.png)
-
+```
 
 ## Result:
+
+
